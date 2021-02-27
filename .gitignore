@@ -1,0 +1,9 @@
+# library
+.vscode/
+node_modules/
+package-lock.json
+package.json
+
+# sectret
+env.js
+data.json
